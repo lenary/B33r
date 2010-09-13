@@ -4,7 +4,7 @@ Feature: Beer
   I should get out more
 
   Background:
-    Sam or Gar selects a pub
+    Given Sam or Gar selects a pub
 
   Scenario: Meet-up
     Given that today is "Tuesday "
